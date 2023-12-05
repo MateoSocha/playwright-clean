@@ -16,6 +16,6 @@
   },
   "homepage": "https://github.com/MateoSocha/playwright-clean#readme",
   "devDependencies": {
-    "@playwright/test": "^1.27.1"
+    "@playwright/test": "^1.40.1"
   }
 }
